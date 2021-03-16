@@ -1,5 +1,5 @@
 body{
-    background-color: aquamarine;
+    background-color: #C7D8E3;
 }
 
 .highlight{
@@ -17,4 +17,8 @@ h2{
 }
 
 a:link{text-decoration: none; color: black;}
-a:hover{text-decoration: underline; color: pink;}
+a:hover{text-decoration: underline; color: white;}
+a{
+    text-align: left;
+    padding:10px
+}
